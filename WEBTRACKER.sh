@@ -1,4 +1,5 @@
 #!/bin/bash
+#BOLEH DI REKODE
 clear
 logo='''
 _________________________________
@@ -7,6 +8,8 @@ www××××wwww×××www×××××××××××××××××|
 ×www×××wwww×××www_________××××××××|
 ××wwwwwwwwwwwwwwTRACKER________×××|
 ×××wwwww  wwwww ______SHELL____×××|
+Athour:anonymous7770.             |
+Github:http://gihub.com/anonimoud |
 __________________________________|
 '''
 printf "\033[31m"
