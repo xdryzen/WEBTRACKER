@@ -23,4 +23,5 @@ Anonimous7770
 
 # JALANKAN DENGAN PERINTA
   bash WEBTRACKER.sh
+ Atau . WEBTRACKER.sh
 
