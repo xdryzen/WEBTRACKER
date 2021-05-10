@@ -16,7 +16,7 @@ Dapat melacak ipandres pada web pilih 5 ping website masukan url dan port terser
 # INSTALL
 
 pkg update && pkg upagrade
-pkg install nano
+<p>pkg install nano</p>
 
 # ATHOUR
 Anonimous7770
